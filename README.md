@@ -1,8 +1,8 @@
-# Java Spring Web App Fundamentals
-# Author
+# Film and Actor Object Web Displayer
+## Author
 Abdul Aziz Nassor
 
-# Description
+## Description
 
 In second year of university, we were tasked with creaing a Java Spring Web App using the fundamentals taught to us.
 
@@ -10,13 +10,13 @@ We had to create a two base classes (Actor, Film), and create a controller for b
 
 The classes also includes validation of data for security reasons. After, we display the basic data of each object to the user on the web app.
 
-# Installation
+## Installation
 
 Go onto Github, find the project and clone the repository.
 Afterwards, open bash, locate the destinated file with 'cd', and use git clone on the cloned repository.
 
 ```bash
-git clone https://github.com/aanassor1/Java-Spring-Web-App-Fundamentals.git
+git clone https://github.com/aanassor1/Film-and-Actor-Object-Web-Displayer.git
 ```
 
 After, create a java product on an IDE that allows packages. Then create a package for each folder (Domain, resources, controller) and then put in the respective children in each of those folders. Put the views folder into the main project folder and the HW1Application.java file.
