@@ -1,8 +1,8 @@
 # Film and Actor Object Web Displayer
-### Author
+## Author
 Abdul Aziz Nassor
 
-### Description
+## Description
 
 A small project that I made to showcase the fundamentals that I learnt to create a Java Spring Web Application.
 
@@ -16,7 +16,7 @@ The classes also includes validation of data for security reasons. After, I disp
 * Controllers
 * Data Validation
   
-### Installation
+## Installation
 
 Go onto Github, find the project and clone the repository.
 Afterwards, open bash, locate the destinated file with 'cd', and use git clone on the cloned repository.
