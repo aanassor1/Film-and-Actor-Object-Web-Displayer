@@ -1,16 +1,22 @@
 # Film and Actor Object Web Displayer
-## Author
+### Author
 Abdul Aziz Nassor
 
-## Description
+### Description
 
-In second year of university, we were tasked with creaing a Java Spring Web App using the fundamentals taught to us.
+A small project that I made to showcase the fundamentals that I learnt to create a Java Spring Web Application.
 
-We had to create a two base classes (Actor, Film), and create a controller for both of them. These controllers control the view of each class as well as allowing the user to create new objects.
+I had to create a two base classes (Actor, Film), and create a controller for both of them. These controllers control the view of each class as well as allowing the user to create new objects.
 
-The classes also includes validation of data for security reasons. After, we display the basic data of each object to the user on the web app.
+The classes also includes validation of data for security reasons. After, I display the basic data of each object to the user on the web app.
 
-## Installation
+### What I learnt
+* Java Spring MWC
+* Java Classes
+* Controllers
+* Data Validation
+  
+### Installation
 
 Go onto Github, find the project and clone the repository.
 Afterwards, open bash, locate the destinated file with 'cd', and use git clone on the cloned repository.
